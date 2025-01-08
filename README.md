@@ -1,6 +1,3 @@
-# zirlaw28-github.io
-Site en cas de non fermeture de session
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
