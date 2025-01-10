@@ -48,7 +48,7 @@
 <body>
     <div class="container">
         <h1>Oups ! Tu t'es fait croissanter !</h1>
-        <div class="croissant">🥐</div>
+        <div class="croissant"><iframe src="https://giphy.com/embed/RJnIYWeIkx1tFiat1K" width="240" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
         <p>La prochaine fois, n'oublie pas de verrouiller ta session avant de partir !</p>
         <p>Pour te faire pardonner, n'oublie pas d'apporter des croissants pour la prochaine pause !</p>
         <div class="copyright">© EWEN JOVILLAIN</div>
