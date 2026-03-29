@@ -381,7 +381,7 @@ footer{border-top:1px solid var(--border);padding:36px 24px;text-align:center;co
       <li>All future updates included</li>
       <li>Setup guide & parameter documentation</li>
     </ul>
-    <a href="https://google.com" class="btn-primary" style="width:100%;display:block;text-align:center">Subscribe on TradingView</a>
+    <a href="https://wa.me/0637809638" class="btn-primary" style="width:100%;display:block;text-align:center">Contact me on whatsapp</a>
   </div>
   <div class="disclaimer reveal">
     <strong style="color:var(--text)">Risk Disclaimer</strong><br>
